@@ -1,0 +1,35 @@
+/* assets/particles.css */
+
+html, body {
+    height: 100%;
+  }
+  body {
+    background: black;
+    overflow: hidden;
+  }
+  .wrap {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    transform-style: preserve-3d;
+    perspective: 1000px;
+    animation: rotate 14s infinite linear;
+  }
+  @keyframes rotate {
+    100% {
+      transform: rotateY(360deg) rotateX(360deg);
+    }
+  }
+  .c {
+    position: absolute;
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    opacity: 0;
+    background-color: white;
+  }
+  
+  /* Additional animation for .c can be added here */
+  

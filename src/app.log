@@ -1,0 +1,38 @@
+2025-04-28 13:31:09,839 - __main__ - INFO - Model loaded successfully
+2025-04-28 13:31:09,897 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 13:31:09,897 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 13:31:09,918 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-28 13:31:13,230 - __main__ - INFO - Model loaded successfully
+2025-04-28 13:31:13,256 - werkzeug - WARNING -  * Debugger is active!
+2025-04-28 13:31:13,261 - werkzeug - INFO -  * Debugger PIN: 745-401-938
+2025-04-28 13:31:18,274 - werkzeug - INFO -  * Detected change in 'C:\\Users\\skria\\anaconda3\\Lib\\site-packages\\flask\\app.py', reloading
+2025-04-28 13:31:18,277 - werkzeug - INFO -  * Detected change in 'C:\\Users\\skria\\anaconda3\\Lib\\site-packages\\flask\\templating.py', reloading
+2025-04-28 13:31:18,281 - werkzeug - INFO -  * Detected change in 'C:\\Users\\skria\\anaconda3\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2025-04-28 13:31:18,285 - werkzeug - INFO -  * Detected change in 'C:\\Users\\skria\\anaconda3\\Lib\\site-packages\\jinja2\\loaders.py', reloading
+2025-04-28 13:31:18,291 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 13:31:18] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2025-04-28 13:31:18,768 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-28 13:31:21,956 - __main__ - INFO - Model loaded successfully
+2025-04-28 13:31:21,983 - werkzeug - WARNING -  * Debugger is active!
+2025-04-28 13:31:21,988 - werkzeug - INFO -  * Debugger PIN: 745-401-938
+2025-04-28 13:31:22,010 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 13:31:22] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-28 13:31:22,011 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 13:31:22] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-28 13:31:22,060 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 13:31:22] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=9YABXQiztxTbbCx2hGOf HTTP/1.1" 200 -
+2025-04-28 13:31:22,623 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 13:31:22] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-28 13:31:46,536 - werkzeug - INFO -  * Detected change in 'F:\\Python\\disease-outbreak-prediction\\src\\app.py', reloading
+2025-04-28 13:31:46,537 - werkzeug - INFO -  * Detected change in 'F:\\Python\\disease-outbreak-prediction\\src\\app.py', reloading
+2025-04-28 13:31:47,448 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-28 13:31:50,806 - __main__ - INFO - Model loaded successfully
+2025-04-28 13:31:50,834 - werkzeug - WARNING -  * Debugger is active!
+2025-04-28 13:31:50,841 - werkzeug - INFO -  * Debugger PIN: 745-401-938
+2025-04-28 13:32:04,961 - __main__ - INFO - Model loaded successfully
+2025-04-28 13:32:04,993 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-28 13:32:04,993 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 13:32:05,003 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-28 13:32:08,050 - __main__ - INFO - Model loaded successfully
+2025-04-28 13:32:08,075 - werkzeug - WARNING -  * Debugger is active!
+2025-04-28 13:32:08,080 - werkzeug - INFO -  * Debugger PIN: 745-401-938
+2025-04-28 13:33:01,942 - werkzeug - INFO -  * Detected change in 'F:\\Python\\disease-outbreak-prediction\\src\\app.py', reloading
+2025-04-28 13:33:01,943 - werkzeug - INFO -  * Detected change in 'F:\\Python\\disease-outbreak-prediction\\src\\app.py', reloading
+2025-04-28 13:33:02,604 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
